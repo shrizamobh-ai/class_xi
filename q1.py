@@ -17,10 +17,10 @@ for i in text:
     elif i in vowels and i=="u":
         u_count+=1    
 print(f"a is{a_count}")
-print(f"a is{e_count}")
-print(f"a is{i_count}")
-print(f"a is{o_count}")
-print(f"a is{u_count}")
+print(f"e is{e_count}")
+print(f"i is{i_count}")
+print(f"0 is{o_count}")
+print(f"u is{u_count}")
 
 
 #test
